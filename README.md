@@ -1,4 +1,4 @@
-# SATPose
+# PVM Dataset
 # Introduction
 The PVM(Pressure, Vision, Mocap) dataset is a large-scale multimodal human activity dataset, comprising 21 actions (covering both daily activities and fitness exercises) performed by 20 participants. The body mass index (BMI) of the 20 participants (10 males and 10 females, average age = 22.9, SD = 2.86) ranged from 18 to 28, ensuring a moderate amount of body shape variability and different ranges of mobility among them. In the dataset, it includes ground pressure images, monocular images, 2D poses extracted from monocular images, and ground truth 3D poses, collected using a pressure mat, a monocular camera, and a optical motion capture system, respectively. Finally, the PVM dataset contains approximately 800,000 frames (11 hours) of data in total.
 
@@ -13,8 +13,7 @@ For details, please refer to the file tree below.
 [monocular_images_tiny.zip](https://drive.google.com/file/d/1q3k7YgDlTNRQ7nDdOOzJoxRxQgn8rmBx/view?usp=sharing)
 
 # File Tree
-SATPOSE-DATASET
-
+PVM Dataset
 
 ```
 |-- PVMDataset
@@ -471,7 +470,7 @@ monocular_images_tiny
 |       ├── walking(round)_1292.jpg
 |       ├── walking(round)_1293.jpg
 │       └── walking(round)_1294.jpg
-└──     walking(stable)
+└────├──walking(stable)
         ├── walking(stable)_0.jpg
         ├── walking(stable)_1.jpg
         ├── walking(stable)_2.jpg
