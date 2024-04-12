@@ -197,14 +197,6 @@ monocular_images_tiny
 │       ├── inline lunge_1887.jpg
 │       ├── inline lunge_1888.jpg
 │       └── inline lunge_1889.jpg
-|   ├── lying
-│       ├── lying_0.jpg
-│       ├── lying_1.jpg
-│       ├── lying_2.jpg
-│       ├── ...
-│       ├── lying_1737.jpg
-│       ├── lying_1738.jpg
-│       └── lying_1739.jpg
 |   ├── posing
 │       ├── posing_0.jpg
 │       ├── posing_1.jpg
@@ -229,22 +221,6 @@ monocular_images_tiny
 │       ├── Rotary Stability_1856.jpg
 │       ├── Rotary Stability_1857.jpg
 │       └── Rotary Stability_1858.jpg
-|   ├── side-walking
-│       ├── side-walking_0.jpg
-│       ├── side-walking_1.jpg
-│       ├── side-walking_2.jpg
-│       ├── ...
-│       ├── side-walking_1917.jpg
-│       ├── side-walking_1918.jpg
-│       └── side-walking_1919.jpg
-|   ├── sit-ups
-│       ├── sit-ups_0.jpg
-│       ├── sit-ups_1.jpg
-│       ├── sit-ups_2.jpg
-│       ├── ...
-│       ├── sit-ups_2311.jpg
-│       ├── sit-ups_2312.jpg
-│       └── sit-ups_2313.jpg
 |   ├── sitting
 │       ├── sitting_0.jpg
 │       ├── sitting_1.jpg
@@ -261,14 +237,6 @@ monocular_images_tiny
 │       ├── standing on toes_1838.jpg
 │       ├── standing on toes_1839.jpg
 │       └── standing on toes_1840.jpg
-|   ├── taking photo
-│       ├── taking photo_0.jpg
-│       ├── taking photo_1.jpg
-│       ├── taking photo_2.jpg
-│       ├── ...
-│       ├── taking photo_1699.jpg
-│       ├── taking photo_1700.jpg
-│       └── taking photo_1701.jpg
 |   ├── twisting
 │       ├── twisting_0.jpg
 │       ├── twisting_1.jpg
@@ -293,14 +261,6 @@ monocular_images_tiny
 │       ├── waiting_1885.jpg
 │       ├── waiting_1886.jpg
 │       └── waiting_1887.jpg
-|   ├── walking(round)
-│       ├── walking(round)_0.jpg
-│       ├── walking(round)_1.jpg
-│       ├── walking(round)_2.jpg
-│       ├── ...
-│       ├── walking(round)_1242.jpg
-│       ├── walking(round)_1243.jpg
-│       └── walking(round)_1244.jpg
 │   ├──walking(stable)
 │       ├── walking(stable)_0.jpg
 │       ├── walking(stable)_1.jpg
@@ -366,14 +326,6 @@ monocular_images_tiny
 |       ├── inline lunge_1900.jpg
 |       ├── inline lunge_1901.jpg
 │       └── inline lunge_1902.jpg
-|    ├── lying
-|       ├── lying_0.jpg
-|       ├── lying_1.jpg
-|       ├── lying_2.jpg
-|       ├── ...
-|       ├── lying_2155.jpg
-|       ├── lying_2156.jpg
-│       └── lying_2157.jpg
 |    ├── posing
 |       ├── posing_0.jpg
 |       ├── posing_1.jpg
@@ -398,22 +350,6 @@ monocular_images_tiny
 |       ├── Rotary Stability_2087.jpg
 |       ├── Rotary Stability_2088.jpg
 │       └── Rotary Stability_2089.jpg
-|    ├──ide-walking
-|       ├── side-walking_0.jpg
-|       ├── side-walking_1.jpg
-|       ├── side-walking_2.jpg
-|       ├── ...
-|       ├── side-walking_2024.jpg
-|       ├── side-walking_2025.jpg
-│       └── side-walking_2026.jpg
-|    ├── sit-ups
-|       ├── sit-ups_0.jpg
-|       ├── sit-ups_1.jpg
-|       ├── sit-ups_2.jpg
-|       ├── ...
-|       ├── sit-ups_1927.jpg
-|       ├── sit-ups_1928.jpg
-│       └── sit-ups_1929.jpg
 |    ├── sitting
 |       ├── sitting_0.jpg
 |       ├── sitting_1.jpg
@@ -430,14 +366,6 @@ monocular_images_tiny
 |       ├── standing on toes_1907.jpg
 |       ├── standing on toes_1908.jpg
 │       └── standing on toes_1909.jpg
-|    ├── taking photo
-|       ├── taking photo_0.jpg
-|       ├── taking photo_1.jpg
-|       ├── taking photo_2.jpg
-|       ├── ...
-|       ├── taking photo_1881.jpg
-|       ├── taking photo_1882.jpg
-│       └── taking photo_1883.jpg
 |    ├──twisting
 |       ├── twisting_0.jpg
 |       ├── twisting_1.jpg
@@ -462,14 +390,6 @@ monocular_images_tiny
 |       ├── waiting_2124.jpg
 |       ├── waiting_2125.jpg
 │       └── waiting_2126.jpg
-|    ├── walking(round)
-|       ├── walking(round)_0.jpg
-|       ├── walking(round)_1.jpg
-|       ├── walking(round)_2.jpg
-|       ├── ...
-|       ├── walking(round)_1292.jpg
-|       ├── walking(round)_1293.jpg
-│       └── walking(round)_1294.jpg
 └────├──walking(stable)
         ├── walking(stable)_0.jpg
         ├── walking(stable)_1.jpg
